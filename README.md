@@ -1,16 +1,13 @@
-## Hi there 👋
+# Beyond Defaults
 
-<!--
-**beyond-defaults/beyond-defaults** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building with AI, machines and motion.**
 
-Here are some ideas to get you started:
+Beyond Defaults is an independent project space for exploring and building practical systems across artificial intelligence, automation and emerging technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current directions
+
+* Generative image and video workflows
+* Local LLMs and agentic systems
+* Robotics and human-machine interaction
+* Applied tools for real-world processes
+* Experiments that connect software, machines and motion
