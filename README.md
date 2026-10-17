@@ -1,8 +1,8 @@
-# Beyond Defaults
+# UnpresetMind
 
 **Building with AI, machines and motion.**
 
-Beyond Defaults is an independent project space for exploring and building practical systems across artificial intelligence, automation and emerging technology.
+UnpresetMind is an independent project space for exploring and building practical systems across artificial intelligence, automation and emerging technology.
 
 ## Current directions
 
